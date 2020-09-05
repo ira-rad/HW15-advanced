@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/HW15-advanced/static/css/main.03f12fad.chunk.css",
+    "main.js": "/HW15-advanced/static/js/main.a917de65.chunk.js",
+    "main.js.map": "/HW15-advanced/static/js/main.a917de65.chunk.js.map",
+    "runtime-main.js": "/HW15-advanced/static/js/runtime-main.b36ab4f2.js",
+    "runtime-main.js.map": "/HW15-advanced/static/js/runtime-main.b36ab4f2.js.map",
+    "static/js/2.a1941d71.chunk.js": "/HW15-advanced/static/js/2.a1941d71.chunk.js",
+    "static/js/2.a1941d71.chunk.js.map": "/HW15-advanced/static/js/2.a1941d71.chunk.js.map",
+    "index.html": "/HW15-advanced/index.html",
+    "precache-manifest.f4037e9ff9f69298362a1e8294622ce2.js": "/HW15-advanced/precache-manifest.f4037e9ff9f69298362a1e8294622ce2.js",
+    "service-worker.js": "/HW15-advanced/service-worker.js",
+    "static/css/main.03f12fad.chunk.css.map": "/HW15-advanced/static/css/main.03f12fad.chunk.css.map",
+    "static/js/2.a1941d71.chunk.js.LICENSE.txt": "/HW15-advanced/static/js/2.a1941d71.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/HW15-advanced/static/media/arrow.412f3289.svg",
+    "static/media/comment.svg": "/HW15-advanced/static/media/comment.cdd2dd48.svg",
+    "static/media/like.svg": "/HW15-advanced/static/media/like.31d76102.svg",
+    "static/media/repost.svg": "/HW15-advanced/static/media/repost.51bdb263.svg",
+    "static/media/share.svg": "/HW15-advanced/static/media/share.29b987f7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b36ab4f2.js",
+    "static/js/2.a1941d71.chunk.js",
+    "static/css/main.03f12fad.chunk.css",
+    "static/js/main.a917de65.chunk.js"
+  ]
+}

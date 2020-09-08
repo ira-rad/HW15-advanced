@@ -44,6 +44,7 @@
 .name {
   color: white;
   font-weight: bold;
+  margin-right: 10px;
 }
 .txt {
   color: white;
@@ -60,7 +61,6 @@
   border-radius: 20px;
   height: 250px;
 }
-
 .icon {
   width: 20px;
   height: 20px;

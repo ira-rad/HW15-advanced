@@ -1,5 +1,5 @@
 import React from "react";
-import Post from "./components/post.jsx";
+import Post from "./components/post.js";
 
 const ANAKIN_IMAGE =
   "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Anakin-Jedi.jpg/220px-Anakin-Jedi.jpg";
@@ -22,4 +22,5 @@ function App() {
     </div>
   );
 }
+
 export default App;
